@@ -1,0 +1,2 @@
+git checkout currentBranch
+git rebase <baseBranch> перебазировать её на базовую ветку
